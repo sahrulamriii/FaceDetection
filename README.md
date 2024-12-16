@@ -89,7 +89,8 @@ Feel free to open an issue or submit a pull request for improvements. We appreci
 - M. Alghorizmi M.
 - M. Ivan Khoirur Rizky
 - Akfi Rozada
-Special thanks to open-source libraries and pre-trained models used in this project.
+
+## Special thanks to open-source libraries and pre-trained models used in this project.
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
